@@ -1,7 +1,7 @@
-﻿<Application x:Class="WEEIA_NET.App"
+﻿<Application x:Class="Dotnety2.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:WEEIA_NET"
+             xmlns:local="clr-namespace:Dotnety2"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          

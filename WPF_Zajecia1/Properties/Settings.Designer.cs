@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WEEIA_NET.Properties
+namespace zajecia_1_wpf.Properties
 {
 
 
